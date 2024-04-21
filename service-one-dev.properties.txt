@@ -1,0 +1,3 @@
+dbuser=http://localhost:2022/db
+username=service-name-dev
+password=service-password-dev
