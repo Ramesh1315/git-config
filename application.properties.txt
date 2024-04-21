@@ -1,0 +1,3 @@
+dbuser=http://localhost:2022/db
+username=default-name
+password=default-password
